@@ -1,7 +1,7 @@
 [
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1774257738.348075,
+        "expirationDate": 1774263368.09737,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_NJ8RKR9D50",
@@ -10,11 +10,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.2.1739697737.17.1.1739697738.0.0.0"
+        "value": "GS1.2.1739703368.18.1.1739703368.0.0.0"
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1740129737.380845,
+        "expirationDate": 1740135367.221628,
         "hostOnly": false,
         "httpOnly": false,
         "name": "baamboozle_session_v2",
@@ -23,7 +23,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6IkN3Z1Uya01YN1lEcVJYeGVVVVg3R0E9PSIsInZhbHVlIjoiVG0wcEhtUGNYRk1nT256SXZuMThEb2dxNk9OY1pjVnFhaFB4UW1zT3BqZ3RLT2h5U3l5Nmc0U1VuSzFMV1o0TnhxSjdOaklpUlFzTnd5UENKcGtGTUx2ellhUE54SEhuUEo0TTh4cFIzSVp1aWViVEZ3QzBVenlQUlNxYUVhTzYiLCJtYWMiOiI0YzlhNTc0NDdlMmU4ZDlhMmFjMTU2YzRhZWY1Yzc3YjhlYTdlNzgwMTdmODRkODg5MTQyOTI5NDg2YzMyNmFkIiwidGFnIjoiIn0%3D"
+        "value": "eyJpdiI6IkJJNGQweFdxdm1uWjJmV2JyMmJUQ1E9PSIsInZhbHVlIjoiemZ4dDkxM0VrNWwzZlk1cU1hUmhmTWFKVlhsQlhJUlpmK1VCR2JrWFZOR2dQR09ldEY2bml0dVJqVXQza3VxSlZxRE1wNUM0VHYyRWtuMUg2Q05maE00VDUzTTFXeWpKcVhzTXZXNWo0YTNXR3JIemNpcWQrbWJML3JFVDVPdHYiLCJtYWMiOiJlYmMzNzVhMjI5MTNmMGU2MjY3NjJmZTY3ZmE2OGUzZDI0M2Y1YmMzYmVmNGQ4OTc1ZDAwZGYzZmM3NjRlMWRiIiwidGFnIjoiIn0%3D"
     },
     {
         "domain": "www.baamboozle.com",
@@ -53,7 +53,7 @@
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1765617741,
+        "expirationDate": 1765623368,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_BEAMER_FIRST_VISIT_oCBvcCIk24988",
@@ -76,6 +76,19 @@
         "session": false,
         "storeId": null,
         "value": "2024-12-03T13:19:21.243Z"
+    },
+    {
+        "domain": ".baamboozle.com",
+        "expirationDate": 1739703427,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gat",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
     },
     {
         "domain": "www.baamboozle.com",
@@ -118,7 +131,7 @@
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1774257736.243703,
+        "expirationDate": 1774260078.389316,
         "hostOnly": false,
         "httpOnly": true,
         "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
@@ -127,7 +140,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6InQxYnNBT3RSektrMXFvZmxwbWRoV1E9PSIsInZhbHVlIjoiOVdKckR4cUwvbnRhZ015VitnTkhoYU8wSFNwYldNWE1VU0ZlcGdqeFlFS0FmT1RLN0I2SG1ReGI1aGNKenZIOWJrRnpVam9vTUVaRG5jMkFZOFhtQ2hVQS9mWlg4SFg0MUlJZno3TVdDcFJOSU5XV0Izd001a3lkNm9nZ2VKQzFmTXVGMFNidnJ5bFBHODN3eWxObFg0WFpmTGl3MFJOcWVYeUtUdDVHWkJCQXJUTFBDWFpGaUxPaUZUWkcyM1VzWWxRa0lQbFNGTVhUQTJ6MFRXMlVZcFJHSld1ZmhHMk1Ca0hLK2t6andqZz0iLCJtYWMiOiJmZGE5MDQ1Y2RkNzIyZWU3NWY3MTQwOTNkZGM3ZjQ1NTEyZDBlZGE2ZTk5ZmM4Y2Q1MzQ5OTZkZGY0NzRkNzBiIiwidGFnIjoiIn0%3D"
+        "value": "eyJpdiI6IllFblBROVhRVGlQaDlIMjBGUjZLWkE9PSIsInZhbHVlIjoiTW1jRFFnQkhsVytwU0pqQlVnaXVLeWV5R0ZPNjIwQ1hIUWp1TUsreDZXakY1aXZneEQ4UW1DTmw4SlNFSlRvYUgycFNqN0tCUlBzcE13c1BNNGpvVjc0UytUVnFWTnBHa21JUzhueExqbmkxM05RUUpJang4RnZ2UXphMGdTRnB5Nlo0Z01xTExXN3Ywc3RzbWlaMmFpTmNYR3FtWmhXRzRKSUJtYUdNbUN5VGVEM21xM2RNcHhERzVDdU5lYnNMY3c5MlZwWFJac0FwMWRSZ0xlWTZ1UzJDTWpkUTh6aTRJQU9uVG1JYytpVT0iLCJtYWMiOiI1OGM2MTJmYmY2ZGU2MGM0MTAzYmYyOTM4Y2MwNTdiZjUyNTQ1OWQ4MWRjN2ZhNDkzZGY3MTYwYjlkNjUzYjI2IiwidGFnIjoiIn0%3D"
     },
     {
         "domain": "www.baamboozle.com",
@@ -157,7 +170,7 @@
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1742112333.512636,
+        "expirationDate": 1742291455.967792,
         "hostOnly": true,
         "httpOnly": false,
         "name": "currency",
@@ -195,6 +208,32 @@
         "value": "2024-12-04T16:38:21.211Z"
     },
     {
+        "domain": ".www.baamboozle.com",
+        "expirationDate": 1739704520,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_BEAMER_FILTER_BY_URL_oCBvcCIk24988",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "false"
+    },
+    {
+        "domain": ".baamboozle.com",
+        "expirationDate": 1739704521,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_BEAMER_FILTER_BY_URL_oCBvcCIk24988",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "false"
+    },
+    {
         "domain": ".baamboozle.com",
         "expirationDate": 1762791973,
         "hostOnly": false,
@@ -209,7 +248,7 @@
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1765617741,
+        "expirationDate": 1765623368,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_BEAMER_USER_ID_oCBvcCIk24988",
@@ -248,7 +287,7 @@
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1774257737.829694,
+        "expirationDate": 1774263367.676051,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -261,7 +300,7 @@
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1739784137,
+        "expirationDate": 1739789767,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gid",
@@ -274,7 +313,7 @@
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1740302536.380633,
+        "expirationDate": 1740308166.221537,
         "hostOnly": true,
         "httpOnly": false,
         "name": "AWSALB",
@@ -283,11 +322,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "Rp3EP/4mzkfNBqxwpItk7WmlVuz4t8y/au5bmA7JeWBLjwuexgDkI/qn+l0d/Fupn5JqC8AAVdtrp3AVqMgNF/Id+JmzQbYHLP1RHP3fWBqsfWguRViFOtljtzQ3"
+        "value": "nhh665XFW7k23xkg8a+cVX3NdKUv82D8R7urt1O0T47K9mGsHqdgumhuK71LAs9DvNcELzCESBqOM4PcVoiRbfY7Q6v3HxlsVA6y+Grb0akWZh9uAJa0r1hvCe4k"
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1740302536.380702,
+        "expirationDate": 1740308166.221568,
         "hostOnly": true,
         "httpOnly": false,
         "name": "AWSALBCORS",
@@ -296,11 +335,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "Rp3EP/4mzkfNBqxwpItk7WmlVuz4t8y/au5bmA7JeWBLjwuexgDkI/qn+l0d/Fupn5JqC8AAVdtrp3AVqMgNF/Id+JmzQbYHLP1RHP3fWBqsfWguRViFOtljtzQ3"
+        "value": "nhh665XFW7k23xkg8a+cVX3NdKUv82D8R7urt1O0T47K9mGsHqdgumhuK71LAs9DvNcELzCESBqOM4PcVoiRbfY7Q6v3HxlsVA6y+Grb0akWZh9uAJa0r1hvCe4k"
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1740302536.380366,
+        "expirationDate": 1740308166.221356,
         "hostOnly": true,
         "httpOnly": false,
         "name": "AWSALBTG",
@@ -309,11 +348,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "/B3f1mSygbDgszgeDZSzVwzt1c+BJnyPbiXV13ypMrZL9lbheNFtVEqVPNRLvImroohDjEwJPbawbH9R37gklBZ66QKg1Y1dG0gMO2QId0POz1o3Qjz9BOu5H6RvbeSKGyI4QkRizdxRQzo00tk2SAHOYb9H9C87J/ItDUk8b54tIat/OVo="
+        "value": "3XsXmcUmHeIu6hHTqF3wmcwVWW0pTZuEhl2mzyzIU8AdeAXSk5rtRvqMc9uFBomsLGr9KxuDdRbKVL5SypU2tBxUgV1g75I/bzkGSX3jdzyGEaC28tQtjD6r+1l+JIO0vuSolwXR9931A12t61pHh8ZmFCG+Edkine0c3rTnagq2nGxAM28="
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1740302536.380546,
+        "expirationDate": 1740308166.221501,
         "hostOnly": true,
         "httpOnly": false,
         "name": "AWSALBTGCORS",
@@ -322,11 +361,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "/B3f1mSygbDgszgeDZSzVwzt1c+BJnyPbiXV13ypMrZL9lbheNFtVEqVPNRLvImroohDjEwJPbawbH9R37gklBZ66QKg1Y1dG0gMO2QId0POz1o3Qjz9BOu5H6RvbeSKGyI4QkRizdxRQzo00tk2SAHOYb9H9C87J/ItDUk8b54tIat/OVo="
+        "value": "3XsXmcUmHeIu6hHTqF3wmcwVWW0pTZuEhl2mzyzIU8AdeAXSk5rtRvqMc9uFBomsLGr9KxuDdRbKVL5SypU2tBxUgV1g75I/bzkGSX3jdzyGEaC28tQtjD6r+1l+JIO0vuSolwXR9931A12t61pHh8ZmFCG+Edkine0c3rTnagq2nGxAM28="
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1740125133.512705,
+        "expirationDate": 1740304255.967819,
         "hostOnly": true,
         "httpOnly": false,
         "name": "bbzlPublicStats",
@@ -335,11 +374,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "%7B%22signupsWeeklyCount%22%3A25405%7D"
+        "value": "%7B%22signupsWeeklyCount%22%3A26852%7D"
     },
     {
         "domain": "www.baamboozle.com",
-        "expirationDate": 1742112333.512559,
+        "expirationDate": 1742291455.967757,
         "hostOnly": true,
         "httpOnly": false,
         "name": "country",
@@ -378,7 +417,7 @@
     },
     {
         "domain": ".baamboozle.com",
-        "expirationDate": 1740129737.380769,
+        "expirationDate": 1740135367.221594,
         "hostOnly": false,
         "httpOnly": false,
         "name": "XSRF-TOKEN",
@@ -387,6 +426,6 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6IkVwMGR2VXZldlNZZ0NoMEVKZzRuVkE9PSIsInZhbHVlIjoiUlU0Wld6Q0xMQjcxbThDNFNhVTI2WUxLQ0VNZDZZMlJQMW02SjhWNjk3amFqU2hxMEw3YjQzMmpsdzVmN3luREVleHZDcThGWlNQeFRDSVdpNHBhTEw4MlRtWDIwYTg1bmZzNjliWUk3Vm02NFozTDQ2OTdoYXJPRkg3eFZFdlYiLCJtYWMiOiI2ZGQ5YmQxMzlmNzcyZmU1YTY2ZDgwNTBlZTQyOTQ3M2VjYmIwMmViMjAyZmI0NWMwNDVlYTNjNzRkYjBmZDIyIiwidGFnIjoiIn0%3D"
+        "value": "eyJpdiI6InNhdXZHSjFvQi9lQnNjc0hpa3h6NEE9PSIsInZhbHVlIjoiVm9WWXlnYVk1aWFESUpJK2c1RG03RUVOay9ZSjZJMjdEZGVFUllkb295QlhtWkk1MGFiSFVxcUIwaGRSUmJiYm1IRFpOdDE5MlY3N0hUaHFYUFZqZFUzUkFsZ2FtTTlLeEo4Rnh5YVJMakVSOXg1RlNHTnNEazhNelh0WGI2bGgiLCJtYWMiOiIwYThmOTU1NTRkZmY0NTkyMTU4MTU5OWQ0ODhmMDA2ZTdhYTJkNmVkMGU2N2RkNTY2OGZlNjRiNGI0ZDkwODY1IiwidGFnIjoiIn0%3D"
     }
 ]
