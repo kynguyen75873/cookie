@@ -78,19 +78,6 @@
         "value": "2024-12-03T13:19:21.243Z"
     },
     {
-        "domain": ".baamboozle.com",
-        "expirationDate": 1740218402,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_gat",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1"
-    },
-    {
         "domain": "www.baamboozle.com",
         "expirationDate": 1761144918,
         "hostOnly": true,
@@ -297,19 +284,6 @@
         "session": false,
         "storeId": null,
         "value": "GA1.2.548798215.1733231901"
-    },
-    {
-        "domain": ".baamboozle.com",
-        "expirationDate": 1740218397,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_gat_gtag_UA_68633393_1",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1"
     },
     {
         "domain": ".baamboozle.com",
